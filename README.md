@@ -3,4 +3,4 @@
 <p>Just testing some html and basic CSS</p>
 
 
-Visit the Page <a href="https://samuelcgoebel.github.io/design_cafe_menu/" target="_blank">here</a>!
+Visit the Page <a href="https://samuelcgoebel.github.io/design_cafe_menu/" target="_blank" rel="noopener noreferrer">here</a>!
